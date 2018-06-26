@@ -164,11 +164,6 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/viticor"
     
-  # [[params.social]]
-  #  icon = "impactstory"
-  #  icon_pack = "ai"
-  #  link = "https://impactstory.org/"
-    
   [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
