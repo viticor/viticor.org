@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Default"
+
+# Optional Google font URL
+google_fonts = "Yanone+Kaffeesatz:300,700|Fjalla+One|Open Sans:300|Roboto:400,400italic,700|Roboto+Mono|Ubuntu:400,400i,700&subset=latin|Lato:400,700|Montserrat:300,400"
+
+# Font families
+heading_font = "Yanone Kaffeesatz"
+body_font = "Open Sans"
+nav_font = "Lato"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
