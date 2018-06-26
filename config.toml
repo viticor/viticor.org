@@ -167,7 +167,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "impactstory"
     icon_pack = "ai"
-    link = "https://impactstory.org/u/0000-0002-8082-1890"
+    link = "https://impactstory.org/"
     
   [[params.social]]
     icon = "orcid"
