@@ -49,6 +49,7 @@ defaultContentLanguageInSubdir = false
   #   Get your API key: https://developers.google.com/maps/documentation/javascript/get-api-key
   #   Get your coords: Right-click place on Google Maps. Select 'What's here?'. At the bottom is a card with the coords.
   #   Disable Google Maps by clearing all three options to "".
+  map = 1
   google_maps_api_key = "AIzaSyCWXJyDjWJ3LSs48RjXF67BC3kxi3qHlJY" 
   latitude = "39.538619"
   longitude = "-119.813115"
