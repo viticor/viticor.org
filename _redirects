@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://viticor.netlify.com/* https://www.viticor.org/:splat 301!
