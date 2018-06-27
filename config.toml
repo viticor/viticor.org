@@ -49,10 +49,11 @@ defaultContentLanguageInSubdir = false
   #   Get your API key: https://developers.google.com/maps/documentation/javascript/get-api-key
   #   Get your coords: Right-click place on Google Maps. Select 'What's here?'. At the bottom is a card with the coords.
   #   Disable Google Maps by clearing all three options to "".
-  map = 1
-  google_maps_api_key = "AIzaSyCWXJyDjWJ3LSs48RjXF67BC3kxi3qHlJY" 
+  map = 3
+  maps_api_key = "pk.eyJ1IjoidnJ2YXNxdWV6aiIsImEiOiJjaml4YWV6cncwcngwM29xamI5M2ljOHYzIn0.tQPwmTaNFsg64gNB--Y3fw" 
   latitude = "39.538619"
   longitude = "-119.813115"
+  zoom = 15
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
