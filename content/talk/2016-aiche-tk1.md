@@ -9,18 +9,7 @@ time_start = 2016-11-14T13:04:15-07:00
 
 
 # Abstract and optional shortened version.
-abstract = "Alkaline earth hexaborides are thermoelectric materials with unique thermophysical properties
-that have a broad variety of applications with great potential for new uses in fields such as
-lightweight armor development, gas storage, and n-type thermoelectrics. Considering their
-potential as possible hydrogen storage media, the adsorption properties of these materials have
-not yet been extensively studied. In this work, density functional theory (DFT) along with
-Car-Parrinello molecular dynamics (CPMD) is used to study the effects of hydrogen loading
-and surface terminations on hydrogen adsorption properties within these materials. Idealized
-(100) surfaces are determined using the slab method with various surface metal:boron ratios and
-geometries, and preferred geometries are found to depend on the particular metal. Hydrogen
-effects are studied with CPMD and self-consistent field calculations and show a theoretical
-maximum loading on the surface. These results provide very valuable insights on the physical
-and chemical mechanisms of hydrogen adsorption in metal hexaboride materials."
+abstract = "Alkaline earth hexaborides are thermoelectric materials with unique thermophysical properties that have a broad variety of applications with great potential for new uses in fields such as lightweight armor development, gas storage, and n-type thermoelectrics. Considering their potential as possible hydrogen storage media, the adsorption properties of these materials have not yet been extensively studied. In this work, density functional theory (DFT) along with Car-Parrinello molecular dynamics (CPMD) is used to study the effects of hydrogen loading and surface terminations on hydrogen adsorption properties within these materials. Idealized (100) surfaces are determined using the slab method with various surface metal:boron ratios and geometries, and preferred geometries are found to depend on the particular metal. Hydrogen effects are studied with CPMD and self-consistent field calculations and show a theoretical maximum loading on the surface. These results provide very valuable insights on the physical and chemical mechanisms of hydrogen adsorption in metal hexaboride materials."
 abstract_short = ""
 authors = ["V.R. Vasquez", "K. Schmidt", "O.A. Graeve"]
 # Name of event and optional event URL.
