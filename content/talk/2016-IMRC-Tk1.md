@@ -1,11 +1,11 @@
 +++
 title = "Phase Formation in Divalent Hexaborides: Prospects for Hydrogen Storage Technologies"
-date = 2016-08-14T13:04:15-07:00  # Schedule page publish date.
+date = 2016-08-17T13:04:15-07:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2016-08-14T13:04:15-07:00
+time_start = 2016-08-17T13:04:15-07:00
 
 
 # Abstract and optional shortened version.
