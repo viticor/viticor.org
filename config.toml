@@ -183,9 +183,14 @@ defaultContentLanguageInSubdir = false
     link = "http://orcid.org/0000-0002-6604-8096"
     
   [[params.social]]
+    icon = "academia"
+    icon_pack = "ai"
+    link = "https://nevada-reno.academia.edu/VictorRVasquez"    
+    
+  [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
-    link = "https://www.researchgate.net/profile/viticor"
+    link = "https://www.researchgate.net/profile/Victor_R_Vasquez"
     
   [[params.social]]
     icon = "linkedin"
