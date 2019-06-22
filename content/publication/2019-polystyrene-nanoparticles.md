@@ -17,9 +17,9 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-#[[url_custom]]
+[[url_custom]]
 name = "View Journal Article"
-# url = "https://doi.org/10.1016/j.molliq.2018.11.062"
+url = "https://doi.org/10.1016/j.molliq.2018.11.062"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
