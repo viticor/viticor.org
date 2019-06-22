@@ -17,8 +17,8 @@ url_slides = ""
 url_video = ""
 
 # [[url_custom]]
-# name = "View Journal Article"
-# url = " https://doi.org/10.1002/aelm.201800074"
+name = "View Journal Article"
+url = "https://doi.org/10.1002/aelm.201800074"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
