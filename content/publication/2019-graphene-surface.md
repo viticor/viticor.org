@@ -18,7 +18,7 @@ url_video = ""
 
 #[[url_custom]]
 name = "View Journal Article"
-url = "https://doi.org/10.1016/j.colsurfa.2019.02.028"
+# url = "https://doi.org/10.1016/j.colsurfa.2019.02.028"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
