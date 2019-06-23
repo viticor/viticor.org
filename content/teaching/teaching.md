@@ -6,7 +6,7 @@ date = "2018-06-21T00:00:00"
 draft = false
 
 title = "**Teaching**"
-subtitle = "I have beenworking in academia as a faculty member for about 23 years; 19 of those at University of Nevada, Reno and four years at University of Costa Rica. I have taught many courses across the chemical engineering curriculum. A total 75 courses taught from Freshmen level to Doctoral level. Here are some examples of courses I have taught or am currently teaching. Feel free to [contact me](../#contact) if you would like information about any of them."
+subtitle = "I have beenworking in academia as a faculty member for about 23 years; 19 of those at University of Nevada, Reno and four years at University of Costa Rica. I have taught many courses across the chemical engineering curriculum. A total 80 courses taught from Freshmen level to Doctoral level. Here are some examples of courses taught or currently teaching. Feel free to [contact me](../#contact) if you would like information about any of them."
 widget = "custom"
 
 # Order that this section will appear in.
@@ -33,6 +33,7 @@ weight = 40
 - CHE 451 [*Dynamic Process Modeling and Control*](https://catalog.unr.edu/preview_course_nopop.php?catoid=13&coid=97414) (4.0 credits) 
 - CHE 475 [*Principles of Bioengineering*](https://catalog.unr.edu/preview_course_nopop.php?catoid=13&coid=97419) (3.0 credits)
 - CHE 485 [*Separation Processes*](https://catalog.unr.edu/preview_course_nopop.php?catoid=13&coid=97421) (3.0 credits)
+- ENGR 465 [*Statistical Quality Assurance and Management for Engineers*](https://catalog.unr.edu/preview_course_nopop.php?catoid=35&coid=383817) (3.0 credits)
 
 ### Graduate
 

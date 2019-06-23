@@ -30,4 +30,7 @@ caption = ""
 
 We use molecular dynamics (MD) and dynamic light scattering (DLS) measurements to analyze the size of reverse micellar structures in  the AOT-water-isooctane system at different water-to-surfactant ratios at ambient temperature and pressure. We find good qualitative agreement for the size and morphology behavior of the reverse micelle structures between molecular dynamics calculations and DLS measurements; however, the average values for the reverse micelle size distributions are systematically larger for the DLS measurements.  The combination of MD with DLS allows a better interpretation of the experimental results, in particular for conditions where the structures are non-spherical, commonly observed at lower water-to-surfactant ratios.
 
+image = "rmicelle.jpg"
+caption = "Snapshot of equilibrated reverse micelle"
+
 This project is in collaboration with [Olivia Graeve](http://graeve.ucsd.edu/) from [University of California, San Diego](https://ucsd.edu/).
