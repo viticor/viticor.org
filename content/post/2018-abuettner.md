@@ -1,5 +1,5 @@
 +++
-title = "Ab Initio Studies of Metal Hexaboride Materials"
+title = "Clinical Dataset Analysis and Patient Outcome Prediction via Machine Learning"
 date = 2018-12-08T16:51:44-07:00
 draft = false
 summary = "Thesis defense by **Alex Buettner**"
