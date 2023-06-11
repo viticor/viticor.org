@@ -40,10 +40,9 @@ weight = 1
 
 # About me
 
-I am an Associate Professor of Chemical Engineering at <a href = "https://www.unr.edu">University of Nevada, Reno (UNR)</a> in Reno, Nevada. I earned my doctorate in chemical engineering with emphasis in thermodynamics, chemical process modeling & simulation. My current 
+I am Professor and Chair of the Chemical and Materials Engineering Department at <a href = "https://www.unr.edu">University of Nevada, Reno (UNR)</a> in Reno, Nevada. I earned my doctorate in chemical engineering with emphasis in thermodynamics, chemical process modeling & simulation. My current 
 research involves the use of atomistic modeling methods to develop and understand new materials for extreme applications. For instance, 
-the development of metal hexaborides, which are ceramics with unique mechanical and electronic properties; or development of reverse micellar systems for synthesis of nano-particles, are two examples of projects that we work on. We work in close collaboration with experimental groups at the University of California, San Diego and Alfred University.  We are also embarking on new modeling initiaves that involve the use of machine learning methods for various applications in process systems engineering 
-including modeling of health care clinical operations for optimization and better understanding of risk.  
+the development of metal hexaborides, which are ceramics with unique mechanical and electronic properties; or development of reverse micellar systems for synthesis of nano-particles, are two examples of projects that we work on. We work in close collaboration with experimental groups at the University of California, San Diego and Alfred University.  We are also embarking on new modeling initiaves that involve the use of supply chain modeling for various applications in process systems engineering including modeling of lithium extraction and distributions operations, and water supply in northern Nevada, for example.
 
 Our research is driven by the potential and opportunities that cutting edge modeling provide 
 for development of new engineerng technologies. We continously publish in peer-reviewed journals, and present our work in many international 
