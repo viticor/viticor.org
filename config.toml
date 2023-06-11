@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Victor R Vasquez"
   description = "A site about academic life"
-  role = "Professor and Chair, Chemical and Materials Engineering"
+  role = "Professor and Chair, Chemical and Materials Engineering Department"
   organization = "University of Nevada, Reno (UNR)"
   organization_url = "http://www.unr.edu/"
   avatar = "vasquez03.jpg"
