@@ -22,7 +22,7 @@ url = "https://doi.org/10.1016/j.jcis.2020.11.007"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "ga1.jpg"
+image = ""
 caption = ""
 
 +++

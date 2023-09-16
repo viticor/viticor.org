@@ -22,7 +22,7 @@ url = "https://doi.org/10.1021/acsearthspacechem.1c00148"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "sp1c00148_0006.gif"
+image = ""
 caption = ""
 
 +++
