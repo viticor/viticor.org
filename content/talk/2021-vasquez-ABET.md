@@ -16,7 +16,7 @@ url_pdf = ""
 url_slides = ""
 url_video = ""
 [[url_custom]]
-    name = "Contributed"
+    name = "Participant"
     url = ""
 
 
