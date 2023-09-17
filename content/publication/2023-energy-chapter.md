@@ -1,6 +1,5 @@
 +++
-title = "A New Life for Old Giants - Hydropower and Geothermal”, Handbook on the
-Geopolitics of the Energy Transition"
+title = "A New Life for Old Giants - Hydropower and Geothermal"
 date = 2023-09-15T15:11:30-07:00
 draft = false
 
