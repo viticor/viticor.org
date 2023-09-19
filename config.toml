@@ -260,4 +260,3 @@ defaultContentLanguageInSubdir = false
   home = [ "HTML", "CSS", "RSS" ]
   section = [ "HTML", "RSS" ]
   taxonomy = [ "HTML", "RSS" ]
-  taxonomyTerm = [ "HTML", "RSS" ]
