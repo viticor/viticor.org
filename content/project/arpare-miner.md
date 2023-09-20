@@ -35,7 +35,7 @@ bearing overburdens from Mountain Pass deposit.
 
 Our team contributes on the techno-economic assessment (TEA), and process and economic modeling to support this effort including base case models and the proposed technology approach. A detailed computational process model will be developed to model performance under various operating conditions. The process model will include detailed material and energy balances of the main unit operations, namely (a) pre-treatment, (b) XRT sorting, (c) packed bed compression, (d) ball milling, and (e) flotation, as these are the main energy consuming unit operations.
 
-The PI of project is [Pengbo Chu](https://www.unr.edu/mining/people/pengbo-chu)from the 
+The PI of project is [Pengbo Chu](https://www.unr.edu/mining/people/pengbo-chu) from the 
 [University of Nevada, Reno](https://unr.edu/).
 
 Financial support for this project is provided by the ARPA-E MINER Program. 
