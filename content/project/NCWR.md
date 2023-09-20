@@ -9,11 +9,11 @@ title = "Water Resiliency and Self Sufficiency: Advanced Technologies and System
 summary = "Project seeks to advance technological and educational resources related to developing resilient and sustainable water management portfolios with a growing theme centered on water reuse."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "edensity.png"
+image_preview = "ncwr.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["hexaborides", "dft", "modeling", "ceramics", "sensors", "high-entropy", "radiation detection"]
+tags = ["networks", "water", "modeling", "supply-chain", "water-reuse"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "ncwr.png"
+image = ""
 caption = ""
 
 +++
