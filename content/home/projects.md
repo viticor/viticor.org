@@ -49,5 +49,21 @@ filter_default = 0
    name = "Metal Hexaborides"
    tag = ".hexaborides"
 
+ [[filter]]
+   name = "Supply Chain"
+   tag = ".supply-chain"
+
+ [[filter]]
+   name = "Lithium"
+   tag = ".lithium"
+   
+ [[filter]]
+   name = "Cobalt"
+   tag = ".cobalt"
+   
+ [[filter]]
+   name = "Networks"
+   tag = ".networks"
+
 +++
 
