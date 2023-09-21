@@ -15,7 +15,7 @@ categories = []
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 image = "delta-asee.png"
-caption = ""
+caption = "DELTA Leaders Institute Logo. Property of ASEE."
 preview = true
 
 +++
