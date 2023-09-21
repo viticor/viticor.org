@@ -35,6 +35,6 @@ Our team will contribute on leading the educational efforts of this proposal for
 The PI of project is [Mridul Gautam](https://www.unr.edu/research-innovation/contact/mridul-gautam) and the Co-Director is  [Dev  Chidambaram](https://www.unr.edu/cme/people/dev-chidambaram) both from the 
 [University of Nevada, Reno](https://unr.edu/).
 
-For more information the [NSF Website](https://new.nsf.gov/funding/initiatives/regional-innovation-engines) and the [UNR Site](https://www.unr.edu/nsf-engines-battery).  
+For more information visit the [NSF Website](https://new.nsf.gov/funding/initiatives/regional-innovation-engines) and the [UNR Site](https://www.unr.edu/nsf-engines-battery).  
 
 Financial support for this project is provided by the National Science Foundation. 
